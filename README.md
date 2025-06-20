@@ -97,16 +97,6 @@ sns.boxplot(x='species', y='sepal_length', data=df)
 
 ---
 
-##  Sample Visuals
-
-<p align="center">
-  <img src="images/pairplot.png" width="500" alt="Pairplot of Iris">
-  <br>
-  <em>Pairplot showing relationships between features and species</em>
-</p>
-
----
-
 ##  Skills Demonstrated
 
 *  Data loading & cleaning
